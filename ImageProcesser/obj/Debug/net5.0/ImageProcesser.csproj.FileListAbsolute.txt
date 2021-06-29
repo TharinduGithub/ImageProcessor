@@ -1,0 +1,11 @@
+/Users/tharindusenevirathna/Projects/ImageAPI/ImageProcesser/bin/Debug/net5.0/ImageProcesser.deps.json
+/Users/tharindusenevirathna/Projects/ImageAPI/ImageProcesser/bin/Debug/net5.0/ImageProcesser.dll
+/Users/tharindusenevirathna/Projects/ImageAPI/ImageProcesser/bin/Debug/net5.0/ref/ImageProcesser.dll
+/Users/tharindusenevirathna/Projects/ImageAPI/ImageProcesser/bin/Debug/net5.0/ImageProcesser.pdb
+/Users/tharindusenevirathna/Projects/ImageAPI/ImageProcesser/obj/Debug/net5.0/ImageProcesser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tharindusenevirathna/Projects/ImageAPI/ImageProcesser/obj/Debug/net5.0/ImageProcesser.AssemblyInfoInputs.cache
+/Users/tharindusenevirathna/Projects/ImageAPI/ImageProcesser/obj/Debug/net5.0/ImageProcesser.AssemblyInfo.cs
+/Users/tharindusenevirathna/Projects/ImageAPI/ImageProcesser/obj/Debug/net5.0/ImageProcesser.csproj.CoreCompileInputs.cache
+/Users/tharindusenevirathna/Projects/ImageAPI/ImageProcesser/obj/Debug/net5.0/ImageProcesser.dll
+/Users/tharindusenevirathna/Projects/ImageAPI/ImageProcesser/obj/Debug/net5.0/ref/ImageProcesser.dll
+/Users/tharindusenevirathna/Projects/ImageAPI/ImageProcesser/obj/Debug/net5.0/ImageProcesser.pdb
